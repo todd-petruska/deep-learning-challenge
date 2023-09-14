@@ -25,7 +25,7 @@ The second model uses 64 neurons, 16 neurons, and 4 neurons as hidden layers wit
 The third model uses 22 neurons, 16 neurons, 10 neurons, and 4 neurons as hidden layers with four activated as (ReLU) and the output layer is ‘sigmoid’. The number of neurons for this model uses increments of six and epoch of 100 to test how the neural net size impacts the accuracy rate.
 
 
-![model_3](https://github.com/todd-petruska/deep-learning-challenge/assets/128247739/5c450a7e-0d70-4e9f-86ff-5d0b51836b9e)
+![model_3](https://github.com/todd-petruska/deep-learning-challenge/assets/128247739/6849c6f5-aeb2-4f9b-8338-b3651cd0dbac)
 
 All three of the deep neural net models did not achieve a 75% accuracy rate and the increase of neurons and hidden layers only saw slight improvements and in the 2nd case the additional hidden layers resulted in declined accuracy.  
 
