@@ -9,6 +9,9 @@ Overview of the analysis: The nonprofit foundation Alphabet Soup wants a tool th
 
 The first model uses 100 neurons and 50 neurons as hidden layers with two activated as rectified linear unit (ReLU) and the output layer as ‘sigmoid’. The number of neurons for this model were doubled and epoch of 100 is used in order to test and hopefully understand how the neural net size impacts the accuracy rate.
 
+![model_1](https://github.com/todd-petruska/deep-learning-challenge/assets/128247739/07246e6d-3d89-442b-87bf-ba608a285d98)![image](https://github.com/todd-petruska/deep-learning-challenge/assets/128247739/bf4e0507-ef34-4788-8f9c-9e318a454fd6)
+
+
 The second model uses 64 neurons, 16 neurons, and 4 neurons as hidden layers with three activated as (ReLU) and the output layer as is ‘sigmoid’. The number of neurons for this model were multiplied by four and epoch of 100 used to test/improve the accuracy rate.
 
 The third model uses 22 neurons, 16 neurons, 10 neurons, and 4 neurons as hidden layers with four activated as (ReLU) and the output layer is ‘sigmoid’. The number of neurons for this model uses increments of six and epoch of 100 to test how the neural net size impacts the accuracy rate.
