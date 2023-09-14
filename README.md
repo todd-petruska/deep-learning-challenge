@@ -34,4 +34,6 @@ All three of the deep neural net models did not achieve a 75% accuracy rate and 
 
 The first deep neural net model using the least number of hidden layers resulted in accuracy rates within close proximity to neural net models with numerous hidden layers.  Although, the second model uses an additional hidden layer its performance declined from the first model’s accuracy rate of 72.87463% to 72.7113% accuracy rate.  The third deep neural network utilizes four hidden layers and performed best; however, the improvement of 73.1311 accuracy rate vs. the first model’s 72.87463% accuracy rate is negligible. 
 
-The use of an automated neural network using keras sequential model to search for the best hyperparameters could possibly improve the accuracy results for the dataset.  Additionally, running a model with data from the ‘NAME’ column would provide additional inputs to the model and could possibly result in improved accuracy.  
+The use of an automated neural network using keras sequential model to search for the best hyperparameters could possibly improve the accuracy results for the dataset.  Additionally, running a model with data from the ‘NAME’ column would provide additional inputs to the model and could possibly result in improved accuracy.
+
+Resources used for this project includes course materials, Stack Overflow, playground tensorflow.org, tensorflow documentation, and github. 
