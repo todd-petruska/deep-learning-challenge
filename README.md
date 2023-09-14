@@ -7,9 +7,11 @@ Overview of the analysis: The nonprofit foundation Alphabet Soup wants a tool th
 * The feature variables for the model are the following: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL CONSIDERATIONS, and ASK-AMT.
 * The EIN and NAME columns were removed from the data, since they are neither targets nor features 
 
-The first model uses 100 neurons and 50 neurons as hidden layers with two activated as rectified linear unit (ReLU) and the output layer as ‘sigmoid’. The number of neurons for this model were doubled and epoch of 100 is used in order to test and hopefully understand how the neural net size impacts the accuracy rate.
+The first model uses 100 neurons and 50 neurons as hidden layers with two activated as rectified linear unit (ReLU) and the output layer as ‘sigmoid’. The number of neurons for this model were doubled and epoch of 100 is used in order to test and hopefully understand how the neural net size impacts the accuracy rate. 
+
 
 ![model_1](https://github.com/todd-petruska/deep-learning-challenge/assets/128247739/6a71442f-ca11-499c-b300-e69fb848bc3e)
+
 
 
 
